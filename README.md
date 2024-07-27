@@ -1,4 +1,6 @@
-# 👩‍🎨 Paola Fraticola
+<img src="https://github.com/dgpaofraticola.png" width="150" alt="Perfil" />
+# Hola, soy Paola 👋
+
 
 ### 🌟 Diseñadora Gráfica & Full Stack Developer
 
@@ -50,6 +52,31 @@
 - Responsable del sitio web institucional y la app Bienestar Salud
 - Proyectos freelance diversos
 - Docente Universitaria (UTN - ISEC)
+
+---
+
+## 📜 Certificaciones
+
+<table>
+  <tr>
+    <td>
+      <h4>CSS</h4>
+      <img src="https://img.shields.io/badge/Certified-CSS-blue?style=flat-square" alt="CSS Certification"/>
+    </td>
+    <td>
+      <h4>JavaScript</h4>
+      <img src="https://img.shields.io/badge/Certified-JavaScript-yellow?style=flat-square" alt="JavaScript Certification"/>
+    </td>
+    <td>
+      <h4>Java</h4>
+      <img src="https://img.shields.io/badge/Certified-Java-red?style=flat-square" alt="Java Certification"/>
+    </td>
+    <td>
+      <h4>Python</h4>
+      <img src="https://img.shields.io/badge/Certified-Python-blue?style=flat-square" alt="Python Certification"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
