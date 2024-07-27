@@ -39,9 +39,9 @@ Soy una apasionada diseñadora gráfica y desarrolladora full stack con especial
 
 ## 📊 Estadísticas de GitHub
 
-![Paola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dgpaofraticola&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dgpaofraticola&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?dgpaofraticola=tu-usuario&layout=compact&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgpaofraticola&layout=compact&theme=radical)
 
 ---
 
