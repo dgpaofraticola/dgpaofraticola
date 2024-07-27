@@ -1,4 +1,3 @@
-<img src="https://github.com/dgpaofraticola.png" width="150" alt="Perfil" />
 # Hola, soy Paola 👋
 
 
@@ -6,7 +5,7 @@
 
 ---
 
-¡Hola! Soy Paola, una apasionada diseñadora gráfica y desarrolladora full stack con especialización en UX/UI y accesibilidad. Mi objetivo es crear experiencias digitales inclusivas y atractivas.
+Soy una apasionada diseñadora gráfica y desarrolladora full stack con especialización en UX/UI y accesibilidad. Mi objetivo es crear experiencias digitales inclusivas y atractivas.
 
 ---
 ## 🚀 Habilidades
