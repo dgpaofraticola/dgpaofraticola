@@ -60,6 +60,10 @@
 <table>
   <tr>
     <td>
+      <h4>HTML5</h4>
+      <img src="https://img.shields.io/badge/Certified-HTML5-orange?style=flat-square" alt="HTML5 Certification"/>
+    </td>
+    <td>
       <h4>CSS</h4>
       <img src="https://img.shields.io/badge/Certified-CSS-blue?style=flat-square" alt="CSS Certification"/>
     </td>
